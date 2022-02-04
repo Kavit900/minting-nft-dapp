@@ -1,15 +1,16 @@
-# Basic Sample Hardhat Project
+# Minting NFT using Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This repository contains smart contract to create a token based `NFT` and a Web application
+that let's user Mint new images that are incremental in token based unique ids.
 
-Try running some of the following tasks:
+## About Me
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Hi Folks! I am Kavit, a software engineer with a passion for teaching.
+
+📹  YouTube: https://www.youtube.com/channel/UCV-_hzlbVSlobkekurpLOZw/featured
+
+📸  Instagram: https://www.instagram.com/code_with_kavit/
+
+📂  Github: https://github.com/Kavit900
+
+💻  Discord: https://discord.gg/V3rhXEPe
